@@ -1,7 +1,6 @@
 # DBMSProject
 
 TO MIGRATE DB: <br />
-I HATE VENVS <br />
 flask db init <br />
 flask db migrate -m "User table" <br />
 flask db migrate -m "Author table" <br />
