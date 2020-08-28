@@ -1,4 +1,4 @@
-# DBMSProject
+# Book Reviewing Platform
 
 TO MIGRATE DB: <br />
 flask db init <br />
