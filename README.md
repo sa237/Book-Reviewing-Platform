@@ -1,11 +1,16 @@
-# Book-Reviewing-Platform
-A basic book reviewing platform created using HTML,CSS,Flask and MySQL.
+YouBook: A basic book reviewing platform.
 
 Features:
-User and Admin Authentication.
-User can search a book based on name,genre or the author.
-User can review a book.
-User can like/dislike a review.
-The admins can add a book.
-Recently reviewed books appear on the dashboard.
-An overall review of the book can be seen in the form of percentage of people who liked it. 
+•	User Registration and Login 
+•	Search book by book name, author name, and genre of the book
+•	Type in your review for any book.
+•	Like / Dislike button to rate the book.
+•	Recently reviewed books appear at the homepage in “Recently Reviewed” section.
+•	All the books appear with the percentage of people who liked/disliked the book. 
+
+
+Tech Stack:
+•	HTML / CSS
+•	MySQL
+•	Flask
+
